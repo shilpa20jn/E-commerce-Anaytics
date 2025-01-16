@@ -1,6 +1,6 @@
 
 
-# Olist-E-commerce-data-Analysis
+# Olist-E-commerce-data-Analytics
 
 ## Introduction
 
